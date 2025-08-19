@@ -1,4 +1,3 @@
-
 *{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;background:#fafafa;color:#0a0a0a}
 a{color:inherit;text-decoration:none}
 .container{max-width:1120px;margin:0 auto;padding:0 16px}
@@ -28,6 +27,5 @@ a{color:inherit;text-decoration:none}
 @media(min-width:768px){.footer .inner{flex-direction:row}}
 .text-muted{color:#71717a}
 .small{font-size:14px}
-/* Sticky WhatsApp for mobile */
 .sticky-cta{position:fixed;right:16px;bottom:16px;background:#25D366;color:#fff;border-radius:999px;padding:12px 16px;font-weight:700;box-shadow:0 10px 24px rgba(0,0,0,.15);z-index:50}
 @media(min-width:768px){.sticky-cta{display:none}}
